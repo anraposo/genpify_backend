@@ -1,0 +1,15 @@
+{
+  "name": "gateway_service",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.0",
+    "express": "^4.21.2"
+  }
+}
